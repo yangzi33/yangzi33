@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ziyue's github stats](https://github-readme-stats.vercel.app/api?username=yangzi33&theme=dark&show_icons=true)
+![Ziyue's github stats](https://github-readme-stats.vercel.app/api?username=yangzi33&theme=graywhite&show_icons=true)
 
 
 <!--
