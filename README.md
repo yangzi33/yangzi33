@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yangzi33&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Ziyue's github stats](https://github-readme-stats.vercel.app/api?username=yangzi33&theme=dark&show_icons=true)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangzi33&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
